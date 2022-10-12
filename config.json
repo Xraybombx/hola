@@ -1,0 +1,16 @@
+{
+    "token": "MTAyNDg3MDY1NDM3MTE4ODczOA.GsqDp5.cmGds2FWRAavQsQnO45ggqhSErqBbvybkiSI-c",
+    "client":"1024870654371188738",
+    "attemptAutoConnect": true,
+    "channelId": "1023332146959630336",
+    "guildId": "1021560190899855411",
+    "realmName": "Withanian",
+    "realmId":13151147,
+    "verboseMessageEvents": "true",
+    "banneddevices": ["Windows", "Android"],
+    "lasthour": "12",
+
+    "botName": "Realms Automod"
+
+
+}

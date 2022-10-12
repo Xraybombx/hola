@@ -1,0 +1,8 @@
+
+Pinging e13678.dscb.akamaiedge.net [2600:1407:f800:5ae::356e] with 32 bytes of data:
+Reply from 2600:1407:f800:5ae::356e: time=21ms 
+
+Ping statistics for 2600:1407:f800:5ae::356e:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 21ms, Maximum = 21ms, Average = 21ms
